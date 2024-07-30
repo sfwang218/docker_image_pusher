@@ -1,4 +1,5 @@
 #支持私库
-starrocks/dev-env-centos7:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+starrocks/dev-env-centos7:latest
+starrocks/dev-env-centos7:3.3.1
