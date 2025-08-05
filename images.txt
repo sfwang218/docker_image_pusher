@@ -3,5 +3,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 starrocks/dev-env-centos7:latest
 --platform=linux/amd64 starrocks/dev-env-centos7:3.3.6
+--platform=linux/amd64 starrocks/dev-env-centos7:3.3.6
 #--platform=linux/amd64 starrocks/dev-env-centos7:3.3.0
 --platform=linux/amd64 starrocks/dev-env-centos7:3.2.3
